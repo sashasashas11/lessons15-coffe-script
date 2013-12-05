@@ -1,7 +1,3 @@
 do ->
-  asd = if asd > 2
-    asda()
-    asda()
-
-  else
-    asd()
+  plus = (x, y, sahsa...) -> x + y
+  console.log(plus x,y)
