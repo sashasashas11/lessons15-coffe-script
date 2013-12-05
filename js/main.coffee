@@ -4,3 +4,6 @@ res = for number of arr then number * 2
 console.log number
 
 console.log(res)
+
+while arr.length > 3
+  
