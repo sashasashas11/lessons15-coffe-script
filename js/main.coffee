@@ -1,4 +1,3 @@
 do ->
-  arr = [asd:234
-    ,
-    qwe:444]
+  x = 1
+  str = "curent nubmer #{x+1}px"
