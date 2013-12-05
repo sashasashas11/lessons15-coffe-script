@@ -1,6 +1,8 @@
 do ->
   class Animal
+    x = 1
   constructor: (@name) ->
+    x++
     console.log(name)
 
   move: (meters) ->
