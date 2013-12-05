@@ -1,3 +1,3 @@
 do ->
-  unless x > 1
+  if not x > 1
     asd
