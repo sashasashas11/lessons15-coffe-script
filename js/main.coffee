@@ -1,2 +1,4 @@
 do ->
-  arr = [asd:234, qwe:444]
+  arr = [asd:234
+    ,
+    qwe:444]
