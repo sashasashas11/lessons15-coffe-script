@@ -1,9 +1,7 @@
 do ->
-  arr = [1, 2, 3]
-res = for number of arr then number * 2
-console.log number
+  asd = if asd > 2
+    asda()
+    asda()
 
-console.log(res)
-
-while arr.length > 3
-  
+  else
+    asd()
