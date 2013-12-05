@@ -1,3 +1,3 @@
 do ->
-  if not x > 1
-    asd
+  x = on # off
+  y = yes #no
